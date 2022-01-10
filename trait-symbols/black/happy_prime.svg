@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   fill="none"
+   version="1.1"
+   id="svg165"
+   sodipodi:docname="happy_prime.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs169" />
+  <sodipodi:namedview
+     id="namedview167"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.983333"
+     inkscape:cx="30"
+     inkscape:cy="31.043115"
+     inkscape:window-width="766"
+     inkscape:window-height="486"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg165" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 30,60 C 46.568501,60 60,46.5685 60,30 60,13.4315 46.568501,0 30,0 13.4315,0 0,13.4315 0,30 0,46.5685 13.4315,60 30,60 Z M 17.500001,23 C 22.5,23 24,26.7467 24,21.5 24,16.2533 21.0899,12 17.500001,12 13.9101,12 11,16.2533 11,21.5 c 0,5.2467 1.5,1.5 6.500001,1.5 z m 31.5,-1.5 C 49.000001,26.7467 47,23 42.5,23 37.5,23 36,26.7467 36,21.5 36,16.2533 38.910101,12 42.5,12 c 3.5899,0 6.500001,4.2533 6.500001,9.5 z m -2.7681,21.8569 c 1.3017,-1.785 1.3341,-5.5925 -0.875001,-5.5888 -5.356899,0.009 -10.8569,0 -31.726,0.009 -1.78,1.3084 -2.1622,3.8121 -0.8538,5.592 8.642401,11.7572 25.234501,11.2602 33.454801,-0.0122 z"
+     fill="#ffffff"
+     id="path163"
+     style="stroke-width:1;fill:#000000" />
+</svg>

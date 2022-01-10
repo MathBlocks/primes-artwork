@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   fill="none"
+   version="1.1"
+   id="svg207"
+   sodipodi:docname="prime.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs211" />
+  <sodipodi:namedview
+     id="namedview209"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.983333"
+     inkscape:cx="15.312935"
+     inkscape:cy="6.5090403"
+     inkscape:window-width="770"
+     inkscape:window-height="486"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg207" />
+  <circle
+     cx="30"
+     cy="30"
+     fill="#ffffff"
+     id="circle205"
+     style="stroke-width:1;fill:#000000"
+     r="30" />
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 60 60"
+   fill="none"
+   version="1.1"
+   id="svg293"
+   sodipodi:docname="triangular.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs297" />
+  <sodipodi:namedview
+     id="namedview295"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.983333"
+     inkscape:cx="30"
+     inkscape:cy="31.043115"
+     inkscape:window-width="766"
+     inkscape:window-height="486"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg293" />
+  <path
+     d="M1.9125 50.94L28.304 8.71359C29.0873 7.46026 30.9127 7.46026 31.696 8.71359L58.0875 50.94C58.9201 52.2721 57.9624 54 56.3915 54H3.6085C2.03762 54 1.07994 52.2721 1.9125 50.94Z"
+     fill="white"
+     id="path291"
+     style="fill:#000000" />
+</svg>

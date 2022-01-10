@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 60 60"
+   fill="none"
+   version="1.1"
+   id="svg301"
+   sodipodi:docname="unique_prime.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs305" />
+  <sodipodi:namedview
+     id="namedview303"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.983333"
+     inkscape:cx="30"
+     inkscape:cy="31.043115"
+     inkscape:window-width="770"
+     inkscape:window-height="486"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg301" />
+  <ellipse
+     cx="30"
+     cy="30"
+     stroke="#ffffff"
+     stroke-width="18.7083"
+     id="circle299"
+     rx="20.645851"
+     ry="20.645849"
+     style="fill:#000000" />
+</svg>
