@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="11.983333"
-     inkscape:cx="30"
-     inkscape:cy="31.043115"
-     inkscape:window-width="770"
+     inkscape:cx="30.000001"
+     inkscape:cy="31.043116"
+     inkscape:window-width="782"
      inkscape:window-height="486"
      inkscape:window-x="0"
      inkscape:window-y="38"
@@ -38,5 +38,5 @@
      id="circle299"
      rx="20.645851"
      ry="20.645849"
-     style="fill:#000000" />
+     style="fill:none;stroke:#000000" />
 </svg>
